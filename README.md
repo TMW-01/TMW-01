@@ -1,6 +1,6 @@
 ## Hello, I'm Furkan 👋
 
-I'm an Engineering Student that mostly works on Embedded Systems Development. I create solutions for devices that is usually limited in resources. I like to work on software side of things but I also work with hardware.
+I'm an engineering student that mostly works on embedded systems development. I create solutions for devices that is usually limited in resources. I like to work on software side of things but I also work with hardware.
 
 ### My Projects
 
